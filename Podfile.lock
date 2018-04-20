@@ -1,0 +1,22 @@
+PODS:
+  - ObjectMapper (3.1.0)
+  - WCDB.swift (1.0.6):
+    - WCDB.swift/sqlcipher (= 1.0.6)
+  - WCDB.swift/sqlcipher (1.0.6)
+
+DEPENDENCIES:
+  - ObjectMapper (~> 3.1.0)
+  - WCDB.swift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - ObjectMapper
+    - WCDB.swift
+
+SPEC CHECKSUMS:
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  WCDB.swift: 5bb038bc5bb46067cccc7c48392e8f4c4a15def0
+
+PODFILE CHECKSUM: ef9efcf9a4148c614ad82513e6f0bddde93481b6
+
+COCOAPODS: 1.5.0
